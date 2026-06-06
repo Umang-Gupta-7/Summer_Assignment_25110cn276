@@ -1,5 +1,5 @@
+package Summer_Assignment_25110cn276.Day2;
 import java.util.Scanner;
-
 public class Reverse {
     public static void main(String[] args)
     {

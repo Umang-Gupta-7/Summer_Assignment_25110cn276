@@ -1,3 +1,4 @@
+package Summer_Assignment_25110cn276.Day2;
 import java.util.Scanner;
 public class PalindromeOrNot {
     public static void main(String[] args)

@@ -1,5 +1,5 @@
+package Summer_Assignment_25110cn276.Day2;
 import java.util.Scanner;
-
 public class SumOfDigitOfNumber {
     public static void main(String[] args)
     {
